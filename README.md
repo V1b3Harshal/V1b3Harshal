@@ -1,10 +1,17 @@
-# 🤝 The Ground Rules I Live By:
-Clean & Maintainable: I write code that the next developer (or future me) can actually read and scale without a headache.
+# 🤝 The Ground Rules I Live By
 
-Ownership: Being self-taught means I don't wait for hand-holding. If something breaks, I trace it, debug it, and fix it.
+---
 
-Zero Fluff: No hype, no buzzword-chasing. Just predictable delivery, clean logic, and solid engineering.
+### 🧼 **Clean & Maintainable**
+> I write code that the next developer (or future me) can actually read, understand, and scale without a headache. Code is meant for humans first, machines second.
 
+### 🎯 **Extreme Ownership**
+> Being self-taught means I don't wait for hand-holding. If a pipeline fails, a layout breaks, or a bug sneaks into production, I trace it down, debug it, and ship the fix. No excuses.
+
+### 🛠️ **Zero Fluff**
+> No hype, no buzzword-chasing, no over-engineering. Just predictable delivery, clean logic, and solid, reliable engineering that stands up under load.
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/V1B3Harshal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/V1B3Harshal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/V1B3Harshal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hraj1137@gmail.com) 
 
